@@ -1,13 +1,15 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HomeView from '../views/BungallowView.vue'
-import NewPage from '../views/KoskosanView.vue'
-import KoskosanViewVue from '../views/KoskosanView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
     {
       path: '/',
+      name: 'Koskosan',
+      component: () => import('../views/KoskosanView.vue')
+    },
+    {
+      path: '/koskosan',
       name: 'Koskosan',
       component: () => import('../views/KoskosanView.vue')
     },
