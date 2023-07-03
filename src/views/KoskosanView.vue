@@ -448,10 +448,6 @@ import { RouterLink, RouterView } from 'vue-router'
 </template>
 
 <style scoped>
-::-webkit-scrollbar{
-  overflow:hidden;
-}
-
  *{
     margin: 0;
     padding: 0;
@@ -557,7 +553,7 @@ import { RouterLink, RouterView } from 'vue-router'
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-        overflow-x: hidden;
+    overflow-x: hidden;
   }
   nav{
     width: 100%;
