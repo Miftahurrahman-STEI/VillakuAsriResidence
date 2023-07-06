@@ -437,6 +437,7 @@ import { RouterLink, RouterView } from 'vue-router'
           </div>
         </div>
       </div>
+    </div>
   </main>
 </template>
 
