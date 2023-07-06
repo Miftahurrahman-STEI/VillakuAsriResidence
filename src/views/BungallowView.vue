@@ -25,7 +25,7 @@
           <router-link to="/koskosan" class="button">Kos Kosan</router-link>
         </div>
       </div>
-        <img src="../assets/bungalow/overview2.jpeg" alt="bungallow"  class="overview-bungallow">
+        <img src="../assets/bungalow/halamandepan2.jpeg" alt="bungallow"  class="overview-bungallow">
     </div>
   </header>
   <main class="content">
@@ -100,8 +100,9 @@
           </div>
         <div class="container-card">
           <div class="card-ruangtamu">
-            <img src="../assets/bungalow/ruangtamu3.jpeg" alt="ruang tamu">
+            <img src="../assets/bungalow/ruangtamu1.jpeg" alt="ruang tamu">
             <img src="../assets/bungalow/ruangtamu2.jpeg" alt="ruang tamu">
+            <img src="../assets/bungalow/ruangtamu3.jpeg" alt="ruang tamu">
             <img src="../assets/bungalow/ruangtamu4.jpeg" alt="ruang tamu">
           </div>
         </div>
